@@ -1,9 +1,9 @@
 {
   "name": "pomelo-sync-redis-plugin",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "private": false,
   "dependencies": {
-    "pomelo-sync-": "0.0.3",
+    "pomelo-sync-redis": "*",
     "pomelo-logger": "0.0.3"
   }
 }
